@@ -1,2 +1,2 @@
 # Arduino-Based-Fire-Fighting-Robo-
-This is the project based on fire fighters are endangered in the situation of any accidents they get injured so, this Fire Fighting Robo is the prototype model to replace those
+This is the project based on fire fighters are endangered in the situation of any accidents they get injured so, this Fire Fighting Robo is the prototype model to avoid those fire accidents to the fire mans, this project uses a flame sensors to detect the fire location then go tho that place and sprays the water on that fire and immediately sends a Message to the Admin.
